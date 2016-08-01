@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM python:3
 MAINTAINER Dmitry Romanov "dmitry.romanov85@gmail.com"
 
 RUN ["pip", "install", "Flask"]
